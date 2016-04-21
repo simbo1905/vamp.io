@@ -36,7 +36,7 @@ clusters:
           port: 8080/http
       scale:
         cpu: 0.2       
-        memory: 64MB
+        memory: 64
         instances: 1
 ```
 {{% /copyable %}}
